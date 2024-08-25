@@ -75,7 +75,7 @@ export const App: React.FC = () => {
           <div className="header__image fade-in"></div>
 
           <div className="header__wrapper fade-in">
-            <div className="header__block">
+            <div className="header__block fade-in">
               <div className="image fade-in">
                 <img src={vlad} alt="" />
               </div>
@@ -262,7 +262,7 @@ export const App: React.FC = () => {
                 <li>
                   Весільний бенкет
                   <span>
-                    Початок одного з найважливіших кроків у нашому житті
+                    Наповнюйте свої келихи та налаштовуйтесь на бомбезне свято
                   </span>
                 </li>
               </ul>
@@ -275,7 +275,7 @@ export const App: React.FC = () => {
                 <li>
                   Вечірня церемонія
                   <span>
-                    дочекайтесь цього моменту, бо ми підготували дуже солодкий
+                    Дочекайтесь цього моменту, бо ми підготували дуже солодкий
                     сюрприз для Вас
                   </span>
                 </li>
